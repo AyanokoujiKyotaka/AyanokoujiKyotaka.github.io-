@@ -1,0 +1,131 @@
+#inicio{color: white;
+position: fixed;
+left:601px;
+padding: 10px;
+text-decoration: none;
+top:20px;
+}
+
+#serviços{color: white;
+position: fixed;
+left:670px;
+padding: 10px;
+text-decoration: none;
+top:20px;
+}
+
+#Portfólio{color: white;
+position: fixed;
+left:750px;
+padding: 10px;
+text-decoration: none;
+top:20px;
+}
+
+#contato{color: white;
+position: fixed;
+left:840px;
+padding: 10px;
+text-decoration: none;
+top:20px;
+}
+
+#branco{color:rgb(0, 155, 252);
+margin: 10px 120px;
+font-family: sans-serif;
+font-size: 65px;
+}
+
+#a{color: white;
+/*background:white;*/
+padding: 70px;
+padding-top:60px ;
+padding-bottom: 300px;
+border: 2px solid lightskyblue;
+position: relative;
+left: 60px;
+top:300px;
+display: inline-block;
+font-size: 25px ;
+border-radius: 10px;
+padding: none;
+}
+
+body{background-color: black;
+}
+#b{color: white;
+padding: 30px;
+padding-top:60px ;
+padding-bottom: 280px;
+border: 2px solid lightskyblue;
+position: relative;
+left: 150px;
+top:320px;
+display: inline-block;
+border-radius: 10px;
+font-size: 25px;
+}
+#c{color: white;
+padding: 30px;
+padding-top:60px ;
+padding-bottom: 300px;
+border: 2px solid lightskyblue;
+display: inline-block;
+border-radius: 10px;
+font-size: 25px;
+position: relative;
+left: 230px;
+top:300px;
+}
+
+#d{color: white;
+padding: 70px;
+padding-top:60px ;
+padding-bottom: 300px;
+border: 2px solid lightskyblue;
+display: inline-block;
+border-radius: 10px;
+font-size: 25px;
+position: relative;
+left: 100px;
+top:300px
+}
+
+#e{color: white;
+padding: 30px;
+padding-top:60px ;
+padding-bottom: 300px;
+border: 2px solid lightskyblue;
+display: inline-block;
+border-radius: 10px;
+font-size: 25px;
+position: relative;
+left: 250px;
+top:300px
+}
+
+#descrição-a{color:white;
+font-size: 17px;
+}
+
+#descrição-b{color:white;
+    font-size: 17px;
+}
+
+#descrição7dias{color: white;
+font-size: 17px;}
+
+li{display: inline-block;
+font-size: 12px;}
+
+#minhamarca{width: 70px;
+position: fixed;
+left: 110px;
+top: 10px;}
+
+#header{
+background-color: black;
+padding: 30px 10000000000000000000000000000000000000000000000000000000000000000000000000000000px; 
+position: fixed;
+right: 10px;
+top: 0px;}
